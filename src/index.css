@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Philosopher', sans-serif;
+}
+
+p{
+  font-family: 'Source Code Pro', monospace;
+}
+
+h2{
+  font-family: 'Philosopher', sans-serif;  
+}
+a{
+  font-family: 'Source Code Pro', monospace;
+}
+
+li{
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
